@@ -1,7 +1,7 @@
 # Awesome-RPC-Frameworks
 # Awesome-RPC-Frameworks
 
-# Top RPC Frameworks Ecosystem
+## Top RPC Frameworks Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on High-Performance Binary Encoding, Streaming & Cross-Language Service Contracts*  
